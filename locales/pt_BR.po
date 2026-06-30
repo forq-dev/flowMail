@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: approvalbyemail 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgid "Approval request sent."
+msgstr "Solicitação de aprovação enviada."
