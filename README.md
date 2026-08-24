@@ -1,8 +1,12 @@
 # FlowMail for GLPI
 
+[![GitHub Repo stars](https://img.shields.io/github/stars/forq-dev/flowMail?style=social)](https://github.com/forq-dev/flowMail)
+
 Plugin para GLPI 10.x e 11.x que envia solicitações de aprovação de chamado por e-mail usando a validação nativa do GLPI.
 
 O **FlowMail** permite que o aprovador responda uma aprovação diretamente pelo e-mail, sem substituir o fluxo oficial de validações do GLPI. O plugin cria os links seguros de aprovação e recusa, coloca o e-mail na fila nativa de notificações e mantém o resultado salvo em `TicketValidation`.
+
+> ⭐ **Curtiu o FlowMail?** Deixe uma estrela no repositório — isso ajuda outros administradores a encontrarem o plugin e apoia o desenvolvimento contínuo.
 
 > 📚 [Documentação técnica completa](docs/README.md) para administradores técnicos e desenvolvedores.
 
@@ -297,3 +301,11 @@ items_id_target = [ID do aprovador]
 A versão atual declara compatibilidade com GLPI `>= 10.0.0` e `< 12.0.0`.
 
 ---
+
+<br>
+
+<p align="center">
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━</sub><br>
+  <sub>Curtiu o plugin? Deixe uma ⭐ no repositório para ajudar outros administradores a encontrá-lo.</sub><br>
+  <sub>Desenvolvido e mantido com apoio de <a href="https://www.forq.com.br/">Forq</a></sub>
+</p>

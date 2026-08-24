@@ -85,3 +85,13 @@ Evidencias: `front/approve.php:3`, `front/reject.php:3`, `front/decision.php:8`,
 - O token nao e vinculado a IP, navegador ou sessao permanente; o segredo e o proprio link.
 - O codigo diferencia link invalido, expirado e usado, o que ajuda suporte, mas tambem revela o estado geral do token para quem possui o link.
 - O formulario publico usa HTML/CSS inline em PHP; mudancas visuais devem preservar escape com `PluginApprovalbyemailTool::h()`.
+
+---
+
+<br>
+
+<p align="center">
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━</sub><br>
+  <sub>Curtiu o plugin? Deixe uma ⭐ no repositório para ajudar outros administradores a encontrá-lo.</sub><br>
+  <sub>Desenvolvido e mantido com apoio de <a href="https://www.forq.com.br/">Forq</a></sub>
+</p>

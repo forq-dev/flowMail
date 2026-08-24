@@ -75,3 +75,13 @@ O codigo trata o aprovador da validacao de duas formas:
 - O plugin usa `TicketValidation::displayTabContentForItem()` para evitar duplicar a UI nativa; alterar isso pode criar divergencia com as regras do core.
 - `QueuedNotification` e preenchido diretamente com `notificationtemplates_id = 0`; mudancas futuras no core sobre fila de notificacao podem exigir revisao.
 - O fluxo publico cria sessao temporaria do aprovador para gravar a decisao; qualquer mudanca em regras de sessao/direitos do GLPI pode afetar esse trecho.
+
+---
+
+<br>
+
+<p align="center">
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━</sub><br>
+  <sub>Curtiu o plugin? Deixe uma ⭐ no repositório para ajudar outros administradores a encontrá-lo.</sub><br>
+  <sub>Desenvolvido e mantido com apoio de <a href="https://www.forq.com.br/">Forq</a></sub>
+</p>
