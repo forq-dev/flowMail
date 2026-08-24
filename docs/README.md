@@ -43,3 +43,13 @@ Nao ha documentacao separada de frontend nesta versao. O plugin inspecionado nao
 | Doc | Quando consultar |
 |-----|-----------------|
 | [Validacao nativa e hooks GLPI](architecture/glpi-integration/native-validation.md) | Ao atualizar a versao do GLPI, revisar hooks, stateless paths, compatibilidade GLPI 10/11 ou o uso de `TicketValidation` e `QueuedNotification`. |
+
+---
+
+<br>
+
+<p align="center">
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━</sub><br>
+  <sub>Curtiu o plugin? Deixe uma ⭐ no repositório para ajudar outros administradores a encontrá-lo.</sub><br>
+  <sub>Desenvolvido e mantido com apoio de <a href="https://www.forq.com.br/">Forq</a></sub>
+</p>

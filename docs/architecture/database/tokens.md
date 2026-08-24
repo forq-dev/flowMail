@@ -85,3 +85,13 @@ Evidencias: `hook.php:13`, `hook.php:16`, `hook.php:26`, `hook.php:32`.
 - Nao ha limpeza automatica de tokens expirados no codigo inspecionado.
 - `used_at` fica no registro inteiro; apos uma decisao salva, tanto o token de aprovacao quanto o de recusa daquele row passam a ser inutilizaveis.
 - Os tokens brutos so aparecem nos links enviados por e-mail; logs, mensagens de erro ou novas docs nao devem expor esses valores.
+
+---
+
+<br>
+
+<p align="center">
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━</sub><br>
+  <sub>Curtiu o plugin? Deixe uma ⭐ no repositório para ajudar outros administradores a encontrá-lo.</sub><br>
+  <sub>Desenvolvido e mantido com apoio de <a href="https://www.forq.com.br/">Forq</a></sub>
+</p>

@@ -69,3 +69,13 @@ Evidencias principais: `setup.php:28`, `inc/request.class.php:57`, `inc/request.
 - A aprovacao por link e uma mutacao via GET, entao qualquer abertura automatica do link pode aprovar a solicitacao.
 - A recusa depende de comentario; falhas de validacao retornam para o formulario publico.
 - O fluxo depende de `TicketValidation::WAITING`; se a validacao for respondida por outro caminho antes do link, o token deixa de conseguir gravar a decisao.
+
+---
+
+<br>
+
+<p align="center">
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━</sub><br>
+  <sub>Curtiu o plugin? Deixe uma ⭐ no repositório para ajudar outros administradores a encontrá-lo.</sub><br>
+  <sub>Desenvolvido e mantido com apoio de <a href="https://www.forq.com.br/">Forq</a></sub>
+</p>

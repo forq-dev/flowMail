@@ -91,3 +91,13 @@ Antes de chamar `TicketValidation->update()`, o plugin cria uma sessao temporari
 - Nao ha CronTask de limpeza de tokens expirados no codigo inspecionado.
 - Nao ha inspecao do core local do GLPI nesta execucao; a versao alvo `GLPI 11.0.7` foi informada pelo usuario.
 - O codigo documentado declara compatibilidade com GLPI `>= 10.0.0` e `< 12.0.0`, mas a documentacao aqui foca no comportamento do checkout atual.
+
+---
+
+<br>
+
+<p align="center">
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━</sub><br>
+  <sub>Curtiu o plugin? Deixe uma ⭐ no repositório para ajudar outros administradores a encontrá-lo.</sub><br>
+  <sub>Desenvolvido e mantido com apoio de <a href="https://www.forq.com.br/">Forq</a></sub>
+</p>
