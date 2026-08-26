@@ -1,0 +1,34 @@
+# --- Internal team framework (never versioned) ---
+.agents/
+
+# --- PHP / Composer ---
+vendor/
+composer.lock.bak
+*.log
+
+# --- Environment / secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Frontend (not used today, kept for when it appears) ---
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# --- OS artifacts ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / editor ---
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# --- GLPI plugin build/local artifacts ---
+/dist/
+/*.zip
