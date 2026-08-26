@@ -1,0 +1,23 @@
+{
+    "name": "forq-dev/flowmail",
+    "description": "Send ticket approval requests by email using GLPI's native validation.",
+    "type": "glpi-plugin",
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://github.com/forq-dev/flowMail",
+    "authors": [
+        {
+            "name": "Forq"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/forq-dev/flowMail/issues",
+        "source": "https://github.com/forq-dev/flowMail"
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
